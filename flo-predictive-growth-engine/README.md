@@ -2,6 +2,8 @@
 
 ![Project Banner](01_FLO_Overview.png)
 
+> **Collaborative Capstone Project:** This project was completed as part of the **Miuul Data Analytics Bootcamp**. Together with my teammates, we engineered an end-to-end growth strategy for FLO, transitioning from traditional methods to a data-driven predictive ecosystem.
+
 ## 🎯 Business Problem: The Efficiency Gap
 As Turkey’s largest footwear retailer, FLO faced a strategic hurdle: **Marketing spend was increasing, but ROI was stagnating.** The brand was using a "One-Size-Fits-All" approach for 20,000 customers, missing the nuances of channel behavior and long-term value.
 
