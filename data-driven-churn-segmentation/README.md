@@ -9,6 +9,7 @@ This project focuses on analyzing customer attrition (churn) within a telecommun
 * **Statistical Analysis:** * **Churn Rate Calculation:** Analyzed churn percentages across different customer cohorts.
     * **Revenue Impact Analysis:** Evaluated the relationship between Monthly Charges and attrition.
     * **Tenure Analysis:** Investigated the "critical period" where customers are most likely to leave.
+* Dataset comprises 100,000+ rows; optimized for performance.
 
 ## 📊 Key Insights & Findings
 
