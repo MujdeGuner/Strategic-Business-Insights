@@ -45,3 +45,7 @@ Passenger feedback was normalized from 1-5 Likert scales to a 0-100 index:
 3.  **Targeted Improvements for Eco Segment:** Enhance "Seat Comfort" for long-haul economy flights to minimize the satisfaction gap with Business class.
 
 ---
+
+### 📩 Contact Information
+**Müjde Güner** – *Data Analytics Specialist (MSc IT)*
+[LinkedIn](https://linkedin.com/in/mujde-guner-msc) | [Email](mailto:mujdeguner@gmail.com)
